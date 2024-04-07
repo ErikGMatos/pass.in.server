@@ -14,8 +14,8 @@ Creates a new event.
 ```json
 {
   "title": "New Event",
-  "details": null,
-  "maximumAttendees": ""
+  "details": "Details of the event",
+  "maximumAttendees": 120
 }
 ```
 
